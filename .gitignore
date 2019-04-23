@@ -1,0 +1,29 @@
+*.class
+*.swp
+*.iml
+.idea
+target/
+logs/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.project
+*.settings
+*.classpath
+
+# Maven build products
+*/target/
+*/logs/*
+# Misc
+*.DS_Store
+*~
+*.lock
+*.swp
+*.out
+*.old
+*.bak
+*.BAK
+*.back
